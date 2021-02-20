@@ -1,6 +1,8 @@
 # React-Hook-Forms
 Projeto de exemplo usando o react-hook-forms
 
+![image](https://user-images.githubusercontent.com/30643035/108581045-b6de0880-7304-11eb-903e-87d36f567961.png)
+
 ## Criando o projeto react
 
 Para criar o projeto utilizamos o comando
